@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Ld01 laptop",
+        "price": 300,
+        "image": "img/1.png"
+                
+    },
+    {
+        "id": 2,
+        "name": "Ld02 laptop",
+        "price": 200,
+        "image": "img/2.png"
+                
+    },
+    {
+        "id": 3,
+        "name": "Ld03 laptop",
+        "price": 250,
+        "image": "img/3.png"
+                
+    },
+    {
+        "id": 4,
+        "name": "Ld04 laptop",
+        "price": 200,
+        "image": "img/2.png"
+                
+    },
+    {
+        "id": 5,
+        "name": "Ld05 laptop",
+        "price": 275,
+        "image": "img/1.png"
+                
+    },
+    {
+        "id": 6,
+        "name": "Ld06 laptop",
+        "price": 200,
+        "image": "img/3.png"
+                
+    },
+    {
+        "id": 7,
+        "name": "Ld07 laptop",
+        "price": 250,
+        "image": "img/1.png"
+                
+    },
+    {
+        "id": 8,
+        "name": "Ld08 laptop",
+        "price": 300,
+        "image": "img/2.png"
+                
+    }
+]
